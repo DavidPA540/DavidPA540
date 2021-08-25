@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola a todos 👋
 
-<!--
-**DavidPA540/DavidPA540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **DavidPA540/DavidPA540** ✨Este es mi repositorio para que me conoscas ✨
 
-Here are some ideas to get you started:
+Soy estudiante de la Universidad Cristobal Colon estudio Ingeniera en Sistemas Computacionales y estoy cursando el 7mo
+semestre y me gusta el area de redes por como se hacen las conexiones y tambien como funcionan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui esta una lista de lo que se y que me gusta:
+
+- :house_with_garden: Me gusta cuidar a mi perro
+- :calling: Se programar
+- :vhs:ver peliculas
+- :tv: ver series 
+- :swimmer: me gusta nadar 
+- :guitar: la musica
